@@ -3,10 +3,11 @@ aula de git básico
 e depois vamos estudar conventional commits
 
 e agora vamos ver a interface visual do VsCode
+Hello World!! JV
 
 adicionando os conventional commits
 
-agora vou alterar para aparecer no github 
+agora vou alterar para aparecer no github .-.
 
 agora vou adicionar um emoji no meu commit
 
@@ -17,3 +18,13 @@ ola galerinha!!
 
 conflito de novo... nao aguento mais
 agora quero ver esse conflito com rebase!
+
+uhuuuu NM
+
+Piracicaba!!!!
+
+to fazendo bagunça
+
+Olá Mundo!
+
+Alteração da dory :D
