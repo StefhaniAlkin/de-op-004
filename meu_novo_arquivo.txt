@@ -13,5 +13,7 @@ agora vou adicionar um emoji no meu commit
 outra pessoa alterou o meu arquivo agora eu vou alterar isso local também
 outra pessoa alterou o meu arquivo de novo!!!!
 
+ola galerinha!!
+
 conflito de novo... nao aguento mais
 agora quero ver esse conflito com rebase!
