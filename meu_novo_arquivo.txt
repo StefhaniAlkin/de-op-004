@@ -15,3 +15,13 @@ outra pessoa alterou o meu arquivo de novo!!!!
 
 conflito de novo... nao aguento mais
 agora quero ver esse conflito com rebase!
+
+
+
+            ((`\      
+         ___ \\ '--._ 
+      .'`   `'    o  )
+     /    \   '. __.' 
+    _|    /_  \ \_\_  
+   {_\______\-'\__\_\ 
+Passei por aqui. - Stefhani
