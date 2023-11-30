@@ -3,6 +3,7 @@ aula de git básico
 e depois vamos estudar conventional commits
 
 e agora vamos ver a interface visual do VsCode
+Hello World!! JV
 
 adicionando os conventional commits
 
