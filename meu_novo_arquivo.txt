@@ -9,3 +9,5 @@ adicionando os conventional commits
 agora vou alterar para aparecer no github 
 
 agora vou adicionar um emoji no meu commit
+
+outra pessoa alterou o meu arquivo
