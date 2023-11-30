@@ -18,6 +18,32 @@ agora quero ver esse conflito com rebase!
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             ((`\      
          ___ \\ '--._ 
       .'`   `'    o  )
