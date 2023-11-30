@@ -6,7 +6,7 @@ e agora vamos ver a interface visual do VsCode
 
 adicionando os conventional commits
 
-agora vou alterar para aparecer no github 
+agora vou alterar para aparecer no github .-.
 
 agora vou adicionar um emoji no meu commit
 
@@ -15,5 +15,3 @@ outra pessoa alterou o meu arquivo de novo!!!!
 
 conflito de novo... nao aguento mais
 agora quero ver esse conflito com rebase!
-
-.-.
